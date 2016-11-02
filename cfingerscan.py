@@ -1,7 +1,5 @@
 #!/usr/bin/env python
 # encoding: utf-8
-# ct.py
-# author: persuit
 
 import requests
 import re
